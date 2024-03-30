@@ -1,0 +1,131 @@
+.head1 {
+    background-color: #4d4d4d;
+}
+.bg-hudam{
+    background: #f3f3f3;
+}
+.purpul{
+    background:#8482cb;
+}
+.bg-dark2{
+    background:#4d4d4d;
+}
+.menu{
+    transition-duration: 0.6s;
+    font-size: 13.5px;
+}
+.menu:hover{
+    background: #62bfc4;
+    color:white ;
+}
+.active{
+    background: #62bfc4;
+    color: white;
+}
+.rangi_man{
+    color: #62bfc4;
+}
+.cats:hover{
+    background: #62bfc4 !important;
+    color: white;
+}
+.fa-search{
+color: #62bfc4;
+} 
+.shop1{
+    background-image: url(../img/photo4.jpg);
+    
+}
+.shop2{
+    background-image: url(../img/photo_5.jpg);
+    
+}
+.shop3{
+    background-image: url(../img/photo_6.jpg);
+    
+}
+.kartina{
+    background: #f7f5f6;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+.rounded-circle {
+    background: #62bfc4;
+}
+.price25{
+    margin-top: 65px;
+}
+.ps5{
+    background-image: url(../img/banners-4.jpg);
+}
+.block{
+    padding: 100px;
+    padding-top: 140px;
+}
+.nutri{
+    background-image: url(../img/banners-5.jpg);
+    padding-bottom: 20px;
+    padding-top: 290px;
+}
+.card1{
+    background-image: url(../img/photo_9.jpg);
+}
+.card2{
+    background-image: url(../img/photo_10.jpg);
+}
+.card3{
+    background-image: url(../img/photo_11.jpg);
+}
+.card1, .card2, .card3 {
+    padding: 80px;
+}
+.sale{
+    top: 20px;
+    left: 30px;
+}
+.kartina img:hover {
+    opacity: 0.4;   
+}
+.kartina img {
+    transition-duration: 2s;
+    cursor: pointer;
+}
+.bg-hudam2{
+    background: #62bfc4;
+}
+.salad{
+    color: #62bfc4;
+}
+.cursor{
+    cursor: pointer;
+}
+.cursor h6:hover{
+    color: #000;
+    transition-duration: 2s;
+}
+.head2{
+    background: #292929;
+    color: #4d4d4d;
+}
+.head3{
+    color: #4d4d4d;
+    background:#323232;
+}
+.salad:hover{
+    color: #f3f3f3;
+}
+.read:hover{
+    background:#8482cb ;
+}
+.mb-2 img:hover{
+    transform:scale(1.2);
+    width: 410px;
+    height: 298px;
+    transition-duration: 2s;
+}
+.mb-2{
+    overflow: hidden;
+}

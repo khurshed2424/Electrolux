@@ -1,0 +1,28 @@
+.bg-hudam{
+    background: #f3f3f3;
+}
+.purpul{
+    background:#8482cb;
+}
+.bg-dark2{
+    background:#4d4d4d;
+}
+.menu{
+    transition-duration: 0.6s;
+    font-size: 13.5px;
+}
+.menu:hover{
+    background: #62bfc4;
+    color:white ;
+}
+.active{
+    background: #62bfc4;
+    color: white;
+}
+.rangi_man{
+    color: #62bfc4;
+}
+.cats:hover{
+    background: #62bfc4 !important;
+    color: white;
+}
